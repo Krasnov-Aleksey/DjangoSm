@@ -1,0 +1,49 @@
+INFO 2024-04-16 16:03:08,528 autoreload 10856 12080Watching for file changes with StatReloader
+INFO 2024-04-16 16:03:11,904 basehttp 10856 8680"GET / HTTP/1.1" 200 19
+INFO 2024-04-16 16:03:19,358 basehttp 10856 8680"GET /game/ HTTP/1.1" 200 5
+INFO 2024-04-16 16:03:28,591 basehttp 10856 6480"GET /rnd/ HTTP/1.1" 200 2
+INFO 2024-04-16 16:03:30,697 basehttp 10856 3840"GET /rnd/ HTTP/1.1" 200 2
+INFO 2024-04-16 16:03:31,529 basehttp 10856 3840"GET /rnd/ HTTP/1.1" 200 2
+INFO 2024-04-16 16:12:20,889 autoreload 10856 12080C:\Users\user\PycharmProjects\DjangoSm1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-16 16:12:22,480 autoreload 10508 8816Watching for file changes with StatReloader
+WARNING 2024-04-16 16:12:25,039 log 10508 10608Not Found: /
+WARNING 2024-04-16 16:12:25,046 basehttp 10508 10608"GET / HTTP/1.1" 404 2167
+INFO 2024-04-16 16:12:34,230 basehttp 10508 8464"GET /game/ HTTP/1.1" 200 19
+WARNING 2024-04-16 16:12:42,979 log 10508 6360Not Found: /game/abaut
+WARNING 2024-04-16 16:12:42,981 basehttp 10508 6360"GET /game/abaut HTTP/1.1" 404 2963
+INFO 2024-04-16 16:12:59,077 basehttp 10508 10524"GET /game/about HTTP/1.1" 301 0
+INFO 2024-04-16 16:12:59,106 basehttp 10508 1988"GET /game/about/ HTTP/1.1" 200 10
+INFO 2024-04-16 16:13:08,484 basehttp 10508 6116"GET /game/game HTTP/1.1" 301 0
+INFO 2024-04-16 16:13:08,516 basehttp 10508 5768"GET /game/game/ HTTP/1.1" 200 5
+INFO 2024-04-16 16:13:10,533 basehttp 10508 3560"GET /game/game/ HTTP/1.1" 200 5
+INFO 2024-04-16 16:13:11,158 basehttp 10508 3560"GET /game/game/ HTTP/1.1" 200 5
+INFO 2024-04-16 16:13:11,718 basehttp 10508 3560"GET /game/game/ HTTP/1.1" 200 5
+INFO 2024-04-16 16:13:12,220 basehttp 10508 3560"GET /game/game/ HTTP/1.1" 200 5
+INFO 2024-04-16 16:13:12,816 basehttp 10508 3560"GET /game/game/ HTTP/1.1" 200 5
+INFO 2024-04-16 16:13:13,645 basehttp 10508 3560"GET /game/game/ HTTP/1.1" 200 5
+WARNING 2024-04-16 16:13:23,658 log 10508 12004Not Found: /game/cub
+WARNING 2024-04-16 16:13:23,664 basehttp 10508 12004"GET /game/cub HTTP/1.1" 404 2957
+INFO 2024-04-16 16:13:36,223 basehttp 10508 5948"GET /game/cube HTTP/1.1" 301 0
+INFO 2024-04-16 16:13:36,265 basehttp 10508 2752"GET /game/cube/ HTTP/1.1" 200 1
+INFO 2024-04-16 16:13:39,203 basehttp 10508 2752"GET /game/cube/ HTTP/1.1" 200 1
+INFO 2024-04-16 16:13:39,694 basehttp 10508 2752"GET /game/cube/ HTTP/1.1" 200 1
+INFO 2024-04-16 16:13:40,159 basehttp 10508 2752"GET /game/cube/ HTTP/1.1" 200 1
+INFO 2024-04-16 16:13:40,656 basehttp 10508 1556"GET /game/cube/ HTTP/1.1" 200 1
+INFO 2024-04-16 16:13:41,221 basehttp 10508 1556"GET /game/cube/ HTTP/1.1" 200 1
+INFO 2024-04-17 09:42:54,863 autoreload 9540 11232Watching for file changes with StatReloader
+INFO 2024-04-17 09:42:58,518 basehttp 9540 6600"GET / HTTP/1.1" 200 47
+WARNING 2024-04-17 09:42:59,446 log 9540 6600Not Found: /favicon.ico
+WARNING 2024-04-17 09:42:59,452 basehttp 9540 6600"GET /favicon.ico HTTP/1.1" 404 3046
+INFO 2024-04-17 09:45:45,774 autoreload 9540 11232C:\Users\user\PycharmProjects\DjangoSm1\myproject\myapp\views.py changed, reloading.
+INFO 2024-04-17 09:45:47,726 autoreload 9504 9376Watching for file changes with StatReloader
+INFO 2024-04-17 09:45:53,461 basehttp 9504 12044"GET / HTTP/1.1" 200 438
+INFO 2024-04-17 09:46:26,033 basehttp 9504 9528"GET /about HTTP/1.1" 301 0
+INFO 2024-04-17 09:46:26,044 basehttp 9504 3520"GET /about/ HTTP/1.1" 200 10
+INFO 2024-04-17 09:48:20,642 autoreload 5820 11684Watching for file changes with StatReloader
+INFO 2024-04-17 09:48:23,347 basehttp 5820 5000"GET / HTTP/1.1" 200 438
+INFO 2024-04-17 09:48:31,336 basehttp 5820 6020"GET /about/ HTTP/1.1" 200 421
+INFO 2024-04-17 09:49:34,059 autoreload 5820 11684C:\Users\user\PycharmProjects\DjangoSm1\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-17 09:49:34,979 autoreload 5720 7404Watching for file changes with StatReloader
+INFO 2024-04-17 09:52:36,280 autoreload 10680 768Watching for file changes with StatReloader
+INFO 2024-04-17 09:52:39,241 basehttp 10680 2596"GET / HTTP/1.1" 200 438
+INFO 2024-04-17 09:52:44,665 basehttp 10680 8896"GET /about/ HTTP/1.1" 200 421
